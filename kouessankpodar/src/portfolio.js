@@ -32,7 +32,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/",
+  github: "https://github.com/kouessankpodar",
   linkedin: "https://www.linkedin.com/in/kouessan-kpodar-b7a303223/",
   gmail: "ephraim3kpodar@gmail.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
