@@ -195,7 +195,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Github",
-          url: "http://github.com/"
+          url: "http://github.com/kouessankpodar"
         }
         //  you can add extra buttons here.
       ]
@@ -207,7 +207,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Github",
-          url: "http://github.com/"
+          url: "http://github.com/kouessankpodar"
         }
       ]
     }
