@@ -157,7 +157,12 @@ const workExperiences = {
       company: "Boston Scientific, Maple Grove, Minneapolis",
       companylogo: require("./assets/images/boston.png"),
       date: "October 2019 – 03 2022",
-      desc: "Boston Scientific Corporation specializes in medical devices.."
+      desc: "Boston Scientific Corporation specializes in medical devices..",
+      descBullets: [
+        "Applied technical knowledge by thoroughly understanding the design, functionality, and regulatory requirements of medical devices, ensuring compliance and contributing to high-quality production outcomes",
+        "Facilitated team development by training colleagues on new devices and software, using clear communication and tailored materials to enhance understanding and operational efficiency.",
+        "Leveraged software and tools to monitor production data, analyze performance trends, and identify areas for improvement, driving consistent efficiency gains and maintaining regulatory standard."
+      ]
     },
     {
       role: "Driver",
