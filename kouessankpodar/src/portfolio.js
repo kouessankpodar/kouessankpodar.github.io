@@ -156,7 +156,7 @@ const workExperiences = {
       role: "Assembly I",
       company: "Boston Scientific, Maple Grove, Minneapolis",
       companylogo: require("./assets/images/boston.png"),
-      date: "October 2019 – 03 2022",
+      date: "October 2019 – Mars 2022",
       desc: "Boston Scientific Corporation specializes in medical devices..",
       descBullets: [
         "Applied technical knowledge by thoroughly understanding the design, functionality, and regulatory requirements of medical devices, ensuring compliance and contributing to high-quality production outcomes",
